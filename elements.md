@@ -16,7 +16,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">황금 비율</h2>
-<p>지도 교수 : 황기태</p>
+<p>지도 교수 : 황기태 교수님</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>조원 소개</h3>
