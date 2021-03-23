@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generic
-description: Lorem ipsum dolor est
+description: 이건또멀까
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
