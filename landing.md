@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3> *2주차* </h3>
+					<h3> * 2주차 * </h3>
 				</header>
 				<p>각자 주제 아이디어를 하나 이상 제안하여 그 중 하나의 주제를 정함
 주제를 정한 기준은 “6/4 제출 기한 내에 완성할 수 있는가”에 초점을 맞추었음
@@ -52,11 +52,12 @@ nav-menu: true
 				<header class="major">
 					<h3>* 3주차 *</h3>
 				</header>
-				<p>역할 분담 결과
-홍금비 : Raspberry로 웹카메라 제어 및 mqtt 환경 구축
-강예준 : Android를 통해 Firebase 관리
-이현정 : Github 홈페이지 관리, Android 카메라 제어
-임세진 : 주간 보고서 작성, 서버 컴퓨터 제어, CNN 구현
+				<p>
+					역할 분담 결과
+					홍금비 : Raspberry로 웹카메라 제어 및 mqtt 환경 구축
+					강예준 : Android를 통해 Firebase 관리
+					이현정 : Github 홈페이지 관리, Android 카메라 제어
+					임세진 : 주간 보고서 작성, 서버 컴퓨터 제어, CNN 구현
 
 얼굴인식 코드를 일반 노트북의 GPU 사양으로 돌릴경우 속도에 제한이 있어 
 서버 컴퓨터를 대여함
@@ -78,9 +79,9 @@ Raspberry에 mqtt 환경을 구축하였음</p>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>* 4주차 *</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>4주차 ~ 어쩌고 ~머했다 ~</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
