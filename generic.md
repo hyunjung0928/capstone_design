@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generic 프로젝트 소개 
+title: 프로젝트 소개 
 description: 프로젝트 소개 
 image: assets/images/pic11.jpg
 nav-menu: true
