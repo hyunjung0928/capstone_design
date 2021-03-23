@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: 대략적인 소개 ~
 nav-menu: true
 ---
 
@@ -11,16 +11,19 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>조원 소개</h1>
+			<h1>대략적인 소개 ~</h1>
 		</header>
 
 <!-- Content -->
 <h2 id="content">황금 비율</h2>
-<p>황금 비율은 ~ 어쩌고 ~ 누구누구 있습니당 ~ 넹 ~~ 어쩌고 ~</p>
+<p>지도 교수 : 황기태</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>조원 소개</h3>
+		<p>홍금비(팀장) <br>
+			강예준<br>
+			이현정 1891280<br>
+			임세진 </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
@@ -28,12 +31,12 @@ nav-menu: true
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>개발 환경 및 도구</h3>
+		<p>윈도우 10 ~ 파베 ~openCV ~ 등등 ~ </p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>개발 언어</h3>
+		<p>자바 ~ 파이선 ~ c++ ~ 등등 ~</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Accumsan montes viverra</h3>
