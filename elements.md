@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 대략적인 소개 ~
+title: *황금 비율 소개*
 nav-menu: true
 ---
 
@@ -11,32 +11,47 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>대략적인 소개 ~</h1>
+			<h1>*황금 비율 소개*</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">황금 비율</h2>
-<p>지도 교수 : 황기태 교수님</p>
+<h2 id="content">지도 교수</h2>
+<p>황기태 교수님</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>조원 소개</h3>
-		<p>홍금비(팀장) <br>
-			강예준<br>
-			이현정 1891280<br>
+		<p>홍금비 (팀장) 
+			강예준 1871005
+			이현정 1891280
 			임세진 </p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>역할 분담</h3>
+		<p>Android UI, 이미지 전송 : 강예준, 이현정
+		Raspberry Pi 상에서 카메라 제어 및 mqtt 환경 구축 : 홍금비
+		CNN 딥러닝 모델 구축 : 임세진</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>개발 환경 및 도구</h3>
-		<p>윈도우 10 ~ 파베 ~openCV ~ 등등 ~ </p>
+		<p><ul>
+			<li>Window 10</li>
+			<li>Raspbian Linux</li>
+			<li>Android Studio</li>
+			<li>Mosquitto</li>
+			<li>Firebase</li>
+			<li>OpenCV</li>
+			<li>Tensorflow</li>
+			<li>VSCode</li>		
+		</ul></p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>개발 언어</h3>
-		<p>자바 ~ 파이선 ~ c++ ~ 등등 ~</p>
+		<p><ul>
+			<li>JAVA</li>
+			<li>Python</li>
+			<li>C++</li>	
+		</ul></p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Accumsan montes viverra</h3>
