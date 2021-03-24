@@ -1,6 +1,6 @@
 ---
 layout: page
-title: *황금 비율 소개*
+title: 황금 비율 소개
 nav-menu: true
 ---
 
@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>*황금 비율 소개*</h1>
+			<h1>황금 비율 소개</h1>
 		</header>
 
 <!-- Content -->
@@ -20,16 +20,16 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>조원 소개</h3>
-		<p>홍금비 (팀장) 
-			강예준 1871005
-			이현정 1891280
+		<p>홍금비 (팀장)<br>
+			강예준 1871005<br>
+			이현정 1891280<br>
 			임세진 </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>역할 분담</h3>
-		<p>Android UI, 이미지 전송 : 강예준, 이현정
-		Raspberry Pi 상에서 카메라 제어 및 mqtt 환경 구축 : 홍금비
-		CNN 딥러닝 모델 구축 : 임세진</p>
+		<p><b>Android UI, 이미지 전송</b>  강예준, 이현정<br>
+		<b>Raspberry Pi 상에서 카메라 제어 및 mqtt 환경 구축</b>  홍금비<br>
+		<b>CNN 딥러닝 모델 구축</b>  임세진</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
