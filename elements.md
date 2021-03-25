@@ -16,7 +16,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">지도 교수</h2>
-<p>황기태 교수님</p>
+<p>황기태 교수님</p><br><br><br><br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>조원 소개</h3>
@@ -30,7 +30,7 @@ nav-menu: true
 		<p><b>Android UI, 이미지 전송</b>  -  강예준, 이현정<br>
 		<b>Raspberry Pi 상에서 카메라 제어 및 mqtt 환경 구축</b>  -  홍금비<br>
 		<b>CNN 딥러닝 모델 구축</b>  -  임세진</p>
-	</div>
+	</div><hr>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>개발 환경 및 도구</h3>
