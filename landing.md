@@ -1,7 +1,7 @@
 ---
 title: 프로젝트 진행상황
 layout: landing
-description: '프로젝트 진행상황 ~ 어쩌구 ~'
+description: '프로젝트 주차별 진행상황'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>주차별 진행상황</h2>
+			<h2></h2>
 		</header>
-		<p>1주차, 2주차</p>
+		<p></p>
 	</div>
 </section>
 
