@@ -16,14 +16,14 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">지도 교수</h2>
-<p>황기태 교수님</p><br>
+<p><b>황기태 교수님</b></p><br>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>조원 소개</h3>
-		<p><b>홍금비 (팀장)</b><br>
+		<p><b>홍금비 (팀장) 1891336</b><br>
 			<b>강예준</b> 1871005<br>
 			<b>이현정</b> 1891280<br>
-			<b>임세진</b> </p>
+			<b>임세진</b> 1871227</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>역할 분담</h3>
