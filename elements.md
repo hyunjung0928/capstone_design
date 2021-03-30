@@ -20,7 +20,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>조원 소개</h3>
-		<p><b>홍금비 (팀장) 1891336</b><br>
+		<p><b>홍금비 (팀장)</b> 1891336<br>
 			<b>강예준</b> 1871005<br>
 			<b>이현정</b> 1891280<br>
 			<b>임세진</b> 1871227</p>
@@ -380,7 +380,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <h3>Image</h3>
 
 <h4>Fit</h4>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/structure.jpg %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
