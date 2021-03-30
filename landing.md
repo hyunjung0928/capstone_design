@@ -13,9 +13,8 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2></h2>
+			<h2>각 주차별 예정 작업</h2>
 		</header>
-		<p></p>
 	</div>
 </section>
 
@@ -28,15 +27,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3> * 2주차 * </h3>
+					<h3>2주차</h3>
 				</header>
-				<p>각자 주제 아이디어를 하나 이상 제안하여 그 중 하나의 주제를 정함
-주제를 정한 기준은 “6/4 제출 기한 내에 완성할 수 있는가”에 초점을 맞추었음
-초반에는 호기롭게 많은 기술들을 사용하여 구현하고 싶었는데 교수님께서 면담을 통해 
-거창하기만 한 작품은 오히려 이것저것 하다가 제대로 못하고 끝날 수 있다고 말씀해주심
-
-이를 바탕으로 각자 수강했던 과목들과 하드웨어 제어의 경험을 살려 얼굴인식 기능을 
-새롭게 추가한, 얼굴인식 기술을 이용한 하드웨어 제어로 주제를 굳히게 되었음</p>
+				<ul class="alt">
+					<li>캡스톤 디자인 주제 토론</li>
+					<li>오프라인 일정 정하기</li>
+				</ul>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -50,22 +46,13 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>* 3주차 *</h3>
+					<h3>3주차</h3>
 				</header>
-				<p>
-					역할 분담 결과
-					홍금비 : Raspberry로 웹카메라 제어 및 mqtt 환경 구축
-					강예준 : Android를 통해 Firebase 관리
-					이현정 : Github 홈페이지 관리, Android 카메라 제어
-					임세진 : 주간 보고서 작성, 서버 컴퓨터 제어, CNN 구현
-
-얼굴인식 코드를 일반 노트북의 GPU 사양으로 돌릴경우 속도에 제한이 있어 
-서버 컴퓨터를 대여함
-서버 컴퓨터에 윈도우를 설치하여 원격 접속할 수 있는 환경을 구축하였음
-안드로이드 상에서 버튼을 통해 카메라를 켜고 사진을 찍으면 
-Firebase에 업로드 되도록 구현함
-HD급 웹캠을 2개 주문하였음 
-Raspberry에 mqtt 환경을 구축하였음</p>
+				<ul class="alt">
+					<li>제안서 작성</li>
+					<li>역할 분담</li>
+					<li>역할 분담에 맞게 코어 기술 개발</li>
+				</ul>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -79,9 +66,14 @@ Raspberry에 mqtt 환경을 구축하였음</p>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>* 4주차 *</h3>
+					<h3>4주차</h3>
 				</header>
-				<p>4주차 ~ 어쩌고 ~머했다 ~</p>
+				<ul class="alt">
+					<li>강예준, 이현정 : 안드로이드 카메라에 촬영 가이드용 윤곽선 표시 및 연속촬영 구현</li>
+					<li>이현정 : 깃허브 홈페이지 관리</li>
+					<li>홍금비 : 라즈베리파이로 웹캠 제어, 과제 제안서 작성</li>
+					<li>임세진 : CNN으로 얼굴인식 코드 작성을 위한 기본 단계 수행 중 (개/고양이 분류 예제), 제안서 작성, 발표영상 제출</li>
+				</ul>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
