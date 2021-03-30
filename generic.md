@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 프로젝트 소개 
-description: 프로젝트 소개 
+description: Deep Learning 기반의 얼굴인식과 기기인증을 활용한 보안 원격 제어 시스템
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 <h2>프로젝트 수행 목적</h2>
 
 <h3>프로젝트 정의</h3>
-<blockquote>Deep Learning 기반의 얼굴인식 및 기기인증을 활용한 보안 원격 제어 시스템</blockquote>
+<blockquote>Deep Learning 기반의 얼굴인식과 기기인증을 활용한 보안 원격 제어 시스템</blockquote>
 <p>본 프로젝트의 목적은 비밀번호를 통한 도어락과 같은 잠금장치의 취약성을 보완하여 얼굴과 모 바일 기기 인식을 통해 검증하는 방식으로 보안성을 강화하는 것이다.</p>
 
 <h3>프로젝트 배경</h3>
