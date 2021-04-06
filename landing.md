@@ -22,7 +22,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/picw2.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -41,7 +41,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/picw3.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -61,7 +61,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/picw4.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -73,6 +73,27 @@ nav-menu: true
 					<li>이현정 : 깃허브 홈페이지 관리</li>
 					<li>홍금비 : 라즈베리파이로 웹캠 제어, 과제 제안서 작성</li>
 					<li>임세진 : CNN으로 얼굴인식 코드 작성을 위한 기본 단계 수행 중 (개/고양이 분류 예제), 제안서 작성, 발표영상 제출</li>
+				</ul>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/picw5.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>5주차</h3>
+				</header>
+				<ul class="alt">
+					<li>강예준, 이현정 : 안드로이드 앱 내에서 연속촬영 구현</li>
+					<li>이현정 : 깃허브 홈페이지 관리</li>
+					<li>홍금비 : 라즈베리파이로 웹캠 제어를 통한 기능 구현 (openCV를 통해 얼굴인식에 성공하면 사진 촬영하여 저장)</li>
+					<li>임세진 : 서버 컴퓨터에 python 환경 구축하여 tensorflow로 얼굴인식 코드 구현</li>
 				</ul>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
