@@ -30,11 +30,14 @@ nav-menu: true
 					<h3>2주차</h3>
 				</header>
 				<ul class="alt">
-					<li>캡스톤 디자인 주제 토론</li>
-					<li>오프라인 일정 정하기</li>
-				</ul>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<ul class="alt">
+						<li>캡스톤 디자인 주제 토론</li>
+						<li>오프라인 일정 정하기</li>
+					</ul>
+					<ul class="alt">
+						<li>캡스톤 디자인 주제 토론</li>
+						<li>오프라인 일정 정하기</li>
+					</ul>
 				</ul>
 			</div>
 		</div>
@@ -90,13 +93,22 @@ nav-menu: true
 					<h3>5주차</h3>
 				</header>
 				<ul class="alt">
-					<li>강예준, 이현정 : 안드로이드 앱 내에서 연속촬영 구현</li>
+					<ul class="alt">
+						<li>강예준, 이현정 : 안드로이드 앱 내에서 연속촬영 구현</li>
 					<li>이현정 : 깃허브 홈페이지 관리</li>
 					<li>홍금비 : 라즈베리파이로 웹캠 제어를 통한 기능 구현 (openCV를 통해 얼굴인식에 성공하면 사진 촬영하여 저장)</li>
 					<li>임세진 : 서버 컴퓨터에 python 환경 구축하여 tensorflow로 얼굴인식 코드 구현</li>
-				</ul>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					</ul>
+					<ul class="alt">
+						<li>홍금비 : Raspberry로 웹카메라에 사람 얼굴이 인식되면 사진을 찍어 mqtt로 전송하는 기능 구현 완료.
+							Firebase에서 사진을 다운로드하는 기능 구현 완료.</li>
+						<li>강예준, 이현정 : Android앱 내에서 연속촬영 구현중.
+							연속촬영에 대한 자료가 많지 않아 동영상을 촬영하여 영상에서 사진을 여러장 캡처하는 방식으로 변경하여 구현중</li>
+						<li>이현정 : Github 홈페이지 관리, 앱 내 학습 시 하단에 나오는 프로그래스바 구현 완료</li>
+						<li>임세진 : 주간 보고서 작성, tensorflow2.4.1과 1점대 version에서 여러 문법이 변경되면서 
+							기존에 사용하려했던 FaceNet 라이브러리가 동작하지 않는 문제가 발생하여 새로운 라이브러리를 탐색하고 있음. 
+							가상환경을 여러개 구축하여 각각 환경에 다른 버전의 tensorflow를 설치하여 test하고 있음</li>
+					</ul>
 				</ul>
 			</div>
 		</div>
