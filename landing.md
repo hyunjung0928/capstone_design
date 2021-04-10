@@ -35,8 +35,8 @@ nav-menu: true
 						<li>오프라인 일정 정하기</li>
 					</ul>
 					<ul class="alt">
-						<li>캡스톤 디자인 주제 토론</li>
-						<li>오프라인 일정 정하기</li>
+						<li>주제 아이디어를 하나 이상 제안하여 그 중 하나의 주제를 정함</li>
+						<li>각자 수강했던 과목들과 하드웨어 제어의 경험을 살려 얼굴인식 기능을 새롭게 추가한 얼굴인식 기능 활용 하드웨어 제어로 주제를 </li>
 					</ul>
 				</ul>
 			</div>
@@ -52,12 +52,17 @@ nav-menu: true
 					<h3>3주차</h3>
 				</header>
 				<ul class="alt">
-					<li>제안서 작성</li>
-					<li>역할 분담</li>
-					<li>역할 분담에 맞게 코어 기술 개발</li>
-				</ul>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<ul class="alt">
+						<li>제안서 작성</li>
+						<li>역할 분담</li>
+						<li>역할 분담에 맞게 코어 기술 개발</li>
+					</ul>
+					<ul class="alt">
+						<li>홍금비 : Raspberry로 웹카메라 제어 및 mqtt 환경 구축</li>
+						<li>강예준 : Android를 통해 Firebase 관리</li>
+						<li>이현정 : Github 홈페이지 관리, Android 카메라 제어</li>
+						<li>임세진 : 주간 보고서 작성, 서버 컴퓨터 제어, CNN 구현</li>
+					</ul>
 				</ul>
 			</div>
 		</div>
@@ -72,13 +77,18 @@ nav-menu: true
 					<h3>4주차</h3>
 				</header>
 				<ul class="alt">
-					<li>강예준, 이현정 : 안드로이드 카메라에 촬영 가이드용 윤곽선 표시 및 연속촬영 구현</li>
-					<li>이현정 : 깃허브 홈페이지 관리</li>
-					<li>홍금비 : 라즈베리파이로 웹캠 제어, 과제 제안서 작성</li>
-					<li>임세진 : CNN으로 얼굴인식 코드 작성을 위한 기본 단계 수행 중 (개/고양이 분류 예제), 제안서 작성, 발표영상 제출</li>
+					<ul class="alt">
+						<li>강예준, 이현정 : 안드로이드 카메라에 촬영 가이드용 윤곽선 표시 및 연속촬영 구현</li>
+						<li>이현정 : 깃허브 홈페이지 관리</li>
+						<li>홍금비 : 라즈베리파이로 웹캠 제어, 과제 제안서 작성</li>
+						<li>임세진 : CNN으로 얼굴인식 코드 작성을 위한 기본 단계 수행 중 (개/고양이 분류 예제), 제안서 작성, 발표영상 제출</li>
 				</ul>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<ul class="alt">
+						<li>강예준, 이현정 : 안드로이드 카메라에 촬영 가이드용 윤곽선 표시 기능을 구현함. 앱 내에서 촬영 버튼을 누를 때마다 뷰에 이미지가 뜨며 촬영되는 기능 구현. 연속 촬영 기능 구현중</li>
+						<li>이현정 : 깃허브 홈페이지 관리</li>
+						<li>홍금비 : 과제 제안서 작성을 완료함. 라즈베리파이로 웹캠 제어를 위한 라이브러리 설치, 파이썬 코드로 캠 제어 기능 구현중.</li>
+						<li>임세진 : 서버컴퓨터를 비치해 둔 장소에서 무선랜으로 연결하니 속도 문제가 있어서 공학관 103호로 비치 장소를 옮겨 유선랜으로 연결하여 네트워크 환경을 안정화함. 제안서 작성완료. 발표영상 제출 예정 (주말)</li>
+					</ul>
 				</ul>
 			</div>
 		</div>
@@ -95,9 +105,9 @@ nav-menu: true
 				<ul class="alt">
 					<ul class="alt">
 						<li>강예준, 이현정 : 안드로이드 앱 내에서 연속촬영 구현</li>
-					<li>이현정 : 깃허브 홈페이지 관리</li>
-					<li>홍금비 : 라즈베리파이로 웹캠 제어를 통한 기능 구현 (openCV를 통해 얼굴인식에 성공하면 사진 촬영하여 저장)</li>
-					<li>임세진 : 서버 컴퓨터에 python 환경 구축하여 tensorflow로 얼굴인식 코드 구현</li>
+						<li>이현정 : 깃허브 홈페이지 관리</li>
+						<li>홍금비 : 라즈베리파이로 웹캠 제어를 통한 기능 구현 (openCV를 통해 얼굴인식에 성공하면 사진 촬영하여 저장)</li>
+						<li>임세진 : 서버 컴퓨터에 python 환경 구축하여 tensorflow로 얼굴인식 코드 구현</li>
 					</ul>
 					<ul class="alt">
 						<li>홍금비 : Raspberry로 웹카메라에 사람 얼굴이 인식되면 사진을 찍어 mqtt로 전송하는 기능 구현 완료.
@@ -113,19 +123,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
 </section>
 
 </div>
