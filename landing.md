@@ -97,6 +97,45 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/picw6.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>6주차</h3>
+				</header>
+				<ul class="alt">
+					<li><b>홍금비 :</b> Firebase에서 사진 다운로드 프로토콜 정하고 구현함.
+						폴더명을 설정하면 파이썬에서 해당 폴더를 생성하여 사진을 다운로드할 수 있게 함</li>
+					<li><b>강예준, 이현정 :</b> Android앱 내에서 동영상을 촬영하여 영상에서 사진을 여러 장 캡처하는 방식으로 구현 완료함.</li>
+					<li><b>이현정 :</b> Github 홈페이지 관리</li>
+					<li><b>임세진 :</b> 주간 보고서 작성</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+		<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/picw9.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>9주차</h3>
+				</header>
+				<ul class="alt">
+					<li><b>홍금비, 임세진 :</b> 서버 컴퓨터의 GPU가 GForce RTX 3090인데 해당 그래픽 카드는 tensorflow 1.X 버전을 지원하지 않는다는 사실을 알게됨.
+						tensorflow2.X 버전으로 전체 가상환경 셋팅을 바꿔서 facenet 코드를 실행함.</li>
+					<li><b>강예준, 이현정 :</b> 안드로이드와 라즈베리파이를 mqtt로 연결하여 서로 통신할 수 있는 환경을 구축.
+						아두이노로 도어락 제어를 할 수 있도록 구현함, 아두이노와 라즈베리파이 블루투스 연결하여 통신할 수 있도록 함</li>
+					<li><b>이현정 :</b> Github 홈페이지 관리</li>
+					<li><b>임세진 :</b> 주간 보고서 작성</li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 </div>
