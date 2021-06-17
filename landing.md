@@ -54,7 +54,27 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-
+	 <!-- Four -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/picw4.jpg%}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>4주차</h3>
+				</header>
+				<ul class="alt">
+					<li><b>강예준, 이현정 :</b> 안드로이드 카메라에 촬영 가이드용 윤곽선 표시 기능을 구현함.
+						앱 내에서 촬영 버튼을 누를 때마다 뷰에 이미지가 뜨며 촬영되는 기능 구현. 연속 촬영 기능 구현중</li>
+               				<li><b>이현정 :</b> 깃허브 홈페이지 관리</li>
+               				<li><b>홍금비 :</b> 과제 제안서 작성을 완료함. 라즈베리파이로 웹캠 제어를 위한 라이브러리 설치, 파이썬 코드로 캠 제어 기능 구현중.</li>
+               				<li><b>임세진 :</b> 서버컴퓨터를 비치해 둔 장소에서 무선랜으로 연결하니 속도 문제가 있어서
+                  				공학관 103호로 비치 장소를 옮겨 유선랜으로 연결하여 네트워크 환경을 안정화함. 제안서 작성완료. 발표영상 제출 예정 (주말)</li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	
 	
 	
