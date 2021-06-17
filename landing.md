@@ -37,6 +37,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<!-- Three -->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/picw3.jpg %}" alt="" data-position="top center" />
@@ -55,6 +56,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<!-- Four -->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/picw4.jpg %}" alt="" data-position="25% 25%" />
@@ -75,6 +77,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<!-- Five -->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/picw5.jpg %}" alt="" data-position="25% 25%" />
@@ -97,6 +100,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<!-- Six & Seven-->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/picw6.jpg %}" alt="" data-position="25% 25%" />
@@ -116,9 +120,10 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<!-- Eight -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/picw9.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/picw7.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -131,6 +136,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<!-- Nine -->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/picw9.jpg %}" alt="" data-position="25% 25%" />
@@ -151,6 +157,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<!-- Ten -->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/picw10.jpg %}" alt="" data-position="25% 25%" />
@@ -161,11 +168,71 @@ nav-menu: true
 					<h3>10주차</h3>
 				</header>
 				<ul class="alt">
-					<li><b>홍금비 :</b> Firebase에서 사진 다운로드 프로토콜 정하고 구현함.
-						폴더명을 설정하면 파이썬에서 해당 폴더를 생성하여 사진을 다운로드할 수 있게 함</li>
-					<li><b>강예준, 이현정 :</b> Android앱 내에서 동영상을 촬영하여 영상에서 사진을 여러 장 캡처하는 방식으로 구현 완료함.</li>
+					<li><b>홍금비,임세진 :</b> facenet 모델을 사용할 때 얼굴인식하는 속도가 너무 느려서 원인을 찾고 있는데 아직 해결하지 못했음.
+						다른 얼굴인식 모델을 서칭하는 중. mqtt 통신으로 firebase에서 이미지 다운로드하는 것을 완료했음.</li>
+					<li><b>강예준, 이현정 :</b> 라즈베리파이 포트포워딩을 진행하는 과정에서 어떤 포트를 열어야할지 몰라 어려움을 겪었지만 
+						교수님의 조언으로 외부 : 80 내부 : 1883 으로 접근하여 해결함
+						포트포워딩을 통해 LTE환경에서도 도어락을 제어할 수 있게 함</li>
 					<li><b>이현정 :</b> Github 홈페이지 관리</li>
 					<li><b>임세진 :</b> 주간 보고서 작성</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- Eleven -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/picw11.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>11주차</h3>
+				</header>
+				<ul class="alt">
+					<li><b>홍금비, 임세진 :</b> mosquitto 환경 구축, mqtt 코드 복구</li>
+					<li><b>강예준, 이현정 :</b> 포트포워딩, mqtt 연결 코드 복구</li>
+					<li><b>이현정 :</b> Github 홈페이지 관리</li>
+					<li><b>임세진 :</b> 주간 보고서 작성</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- Twelve -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/picw12.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>12주차</h3>
+				</header>
+				<ul class="alt">
+					<li><b>홍금비, 임세진 :</b>facenet을 새로운 방식으로 구현한 코드를 발견하여 속도를 개선하였음.
+						라즈베리파이를 유선랜과 연결하고 비디오 스트리밍 툴도 변경하여 속도를 개선.
+						firebase와 서버 컴퓨터의 파이썬 코드를 연결함.
+						mqtt를 통해 db에서 이미지를 다운로드 받고 한꺼번에 순서대로 학습, 분류, 카메라 동작 하도록 코드를 정리함</li>
+					<li><b>강예준, 이현정 :</b> apmod를 사용하여 기기 인식 기능 구현중. wifi가 잡히는 것을 확인했으나, 인터넷 연결은 되지 않아 다음주에 교수님께 여쭤볼 생각이다.이미지가 40장 업로드 되도록 수정하였고 기존에는 이미지가 업로드 될 때마다 다이어로그가 떴는데 마지막에 다 완료한 후에 한번만 뜨도록 수정했음.
+						서버 컴퓨터랑 통신하는 mqtt코드를 구현함</li>
+					<li><b>이현정 :</b> Github 홈페이지 관리</li>
+					<li><b>임세진 :</b> 주간 보고서 작성</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- Thriteen -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/picw13.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>13주차</h3>
+				</header>
+				<ul class="alt">
+					<li><b>전체 팀원 :</b> 시연 </li>
 				</ul>
 			</div>
 		</div>
