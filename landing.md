@@ -35,7 +35,26 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	
+	 <!-- Three -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/picw3.jpg%}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>3주차</h3>
+				</header>
+				<ul class="alt">
+					<li><b>홍금비 :</b> Raspberry로 웹카메라 제어 및 mqtt 환경 구축</li>
+               				<li><b>강예준 :</b> Android를 통해 Firebase 관리</li>
+               				<li><b>이현정 :</b> Github 홈페이지 관리, Android 카메라 제어</li>
+               				<li><b>임세진 :</b> 주간 보고서 작성, 서버 컴퓨터 제어, CNN 구현</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 	
 	
 	
