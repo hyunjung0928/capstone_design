@@ -9,7 +9,6 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -18,8 +17,8 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- Two -->
 <section id="two" class="spotlights">
+	<!-- Two -->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/picw2.jpg%}" alt="" data-position="center center" />
@@ -29,9 +28,17 @@ nav-menu: true
 				<header class="major">
 					<h3>2주차</h3>
 				</header>
+				<ul class="alt">
+					<li>주제 아이디어를 하나 이상 제안하여 그 중 하나의 주제를 정함</li>
+					<li>각자 수강했던 과목들과 하드웨어 제어의 경험을 살려 얼굴인식 기능을 새롭게 추가한 얼굴인식 기능 활용 하드웨어 제어로 주제를 정함</li>
+				</ul>
 			</div>
 		</div>
 	</section>
+	
+	
+	
+	
 </section>
 
 </div>
