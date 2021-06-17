@@ -98,7 +98,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>	
-	 <!-- Six & Seven  -->
+	 <!-- Six -->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/picw6.jpg%}" alt="" data-position="center center" />
@@ -118,7 +118,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	
+	 <!-- Seven & Eight -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/picw8.jpg%}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>8주차</h3>
+				</header>
+				<ul class="alt">
+					<li><b>중간고사 기간</b></li>
+				</ul>
+			</div>
+		</div>
+	</section>	
 	
 	
 	
