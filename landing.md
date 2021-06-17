@@ -222,6 +222,28 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	 <!-- Thirteen -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/picw13.jpg%}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>13주차</h3>
+				</header>
+				<ul class="alt">
+					<li><b>홍금비, 임세진 :</b>새로 추가된 안드로이드 기기와 통신하기 위한 mqtt 프로토콜 설계</li>
+               				<li><b>강예준, 이현정, 홍금비 :</b> 기기 인식 기능 구현이 불가능하다고 판단하여안드로이드 앱에 출석부 기능을
+						추가하는 것으로 전면 수정 Firebase와 연동하여 실시간으로 출석부가 업데이트 되도록 구현하였고
+						온도센서가 보낸 온도값 또한 같이 받아 업데이트 하도록 구현했음 </li>
+               				<li><b>이현정 :</b> Github 홈페이지 관리</li>
+              				 <li><b>임세진 :</b> 주간 보고서 작성, 적외선 온도 센서 및 초음파센서,
+						 LCD를 아두이노와 연결하여 제어하는 python 코드 및 ino코드를 작성</li>
+				</ul>
+			</div>
+		</div>
+	</section>
 
 
 </section>
