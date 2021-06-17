@@ -222,22 +222,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	 <!-- Thirteen -->
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/picw13.jpg%}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>13주차</h3>
-				</header>
-				<ul class="alt">
-					<li><b>전체 팀원 :</b> 시연 </li>
-				</ul>
-			</div>
-		</div>
-	</section>
+
 
 </section>
 
