@@ -44,7 +44,12 @@ nav-menu: true
 			<li>Firebase</li>
 			<li>OpenCV</li>
 			<li>Tensorflow</li>
-			<li>VSCode</li>		
+			<li>VSCode</li>
+			<li>Arduino</li>
+			<li>Raspberry Pi</li>
+			<li>도어락</li>
+			<li>적외선 온도센서</li>
+			<li>초음파 센서</li>
 		</ul></p>
 	</div>
 	<div class="4u 12u$(medium)">
@@ -52,7 +57,6 @@ nav-menu: true
 		<p><ul>
 			<li>JAVA</li>
 			<li>Python</li>
-			<li>C++</li>	
 		</ul></p>
 	</div>
 	
