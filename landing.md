@@ -98,6 +98,30 @@ nav-menu: true
 			</div>
 		</div>
 	</section>	
+	 <!-- Six & Seven  -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/picw6.jpg%}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>6주차</h3>
+				</header>
+				<ul class="alt">
+					<li><b>홍금비 :</b> Firebase에서 사진 다운로드 프로토콜 정하고 구현함.
+                  				폴더명을 설정하면 파이썬에서 해당 폴더를 생성하여 사진을 다운로드할 수 있게 함</li>
+               				<li><b>강예준, 이현정 :</b> Android앱 내에서 동영상을 촬영하여 영상에서 사진을 여러 장 캡처하는 방식으로 구현 완료함.</li>
+               				<li><b>이현정 :</b> Github 홈페이지 관리</li>
+               				<li><b>임세진 :</b> 주간 보고서 작성</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	
+	
+	
+	
 	
 	
 </section>
