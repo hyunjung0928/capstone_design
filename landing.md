@@ -129,7 +129,7 @@ nav-menu: true
 					<h3>8주차</h3>
 				</header>
 				<ul class="alt">
-					<li><b>중간고사 기간</b></li>
+					<li><b>중간고사 기간</b> 입니다</li>
 				</ul>
 			</div>
 		</div>
