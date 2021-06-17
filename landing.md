@@ -75,7 +75,29 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	
+	 <!-- Five  -->
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/picw5.jpg%}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>5주차</h3>
+				</header>
+				<ul class="alt">
+					<li><b>홍금비 :</b> Raspberry로 웹카메라에 사람 얼굴이 인식되면 사진을 찍어 mqtt로 전송하는 기능 구현 완료.
+						Firebase에서 사진을 다운로드하는 기능 구현 완료.</li>
+               				<li><b>강예준, 이현정 :</b> Android앱 내에서 연속촬영 구현중.
+                  				연속촬영에 대한 자료가 많지 않아 동영상을 촬영하여 영상에서 사진을 여러장 캡처하는 방식으로 변경하여 구현중</li>
+               				<li><b>이현정 :</b> Github 홈페이지 관리, 앱 내 학습 시 하단에 나오는 프로그래스바 구현 완료</li>
+               				<li><b>임세진 :</b> 주간 보고서 작성, tensorflow2.4.1과 1점대 version에서 여러 문법이 변경되면서 
+                  				기존에 사용하려했던 FaceNet 라이브러리가 동작하지 않는 문제가 발생하여 새로운 라이브러리를 탐색하고 있음. 
+                  				가상환경을 여러개 구축하여 각각 환경에 다른 버전의 tensorflow를 설치하여 test하고 있음</li>
+				</ul>
+			</div>
+		</div>
+	</section>	
 	
 	
 </section>
