@@ -22,7 +22,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/picw2.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/picw2.jpg%}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -73,7 +73,7 @@ nav-menu: true
 					<li><b>홍금비 :</b> 과제 제안서 작성을 완료함. 라즈베리파이로 웹캠 제어를 위한 라이브러리 설치, 파이썬 코드로 캠 제어 기능 구현중.</li>
 					<li><b>임세진 :</b> 서버컴퓨터를 비치해 둔 장소에서 무선랜으로 연결하니 속도 문제가 있어서
 						공학관 103호로 비치 장소를 옮겨 유선랜으로 연결하여 네트워크 환경을 안정화함. 제안서 작성완료. 발표영상 제출 예정 (주말)</li>
-					</ul>
+				</ul>
 			</div>
 		</div>
 	</section>
@@ -147,7 +147,8 @@ nav-menu: true
 					<h3>9주차</h3>
 				</header>
 				<ul class="alt">
-					<li><b>홍금비, 임세진 :</b> 서버 컴퓨터의 GPU가 GForce RTX 3090인데 해당 그래픽 카드는 tensorflow 1.X 버전을 지원하지 않는다는 사실을 알게됨.
+					<li><b>홍금비, 임세진 :</b> 서버 컴퓨터의 GPU가 GForce RTX 3090인데
+						해당 그래픽 카드는 tensorflow 1.X 버전을 지원하지 않는다는 사실을 알게됨.
 						tensorflow2.X 버전으로 전체 가상환경 셋팅을 바꿔서 facenet 코드를 실행함.</li>
 					<li><b>강예준, 이현정 :</b> 안드로이드와 라즈베리파이를 mqtt로 연결하여 서로 통신할 수 있는 환경을 구축.
 						아두이노로 도어락 제어를 할 수 있도록 구현함, 아두이노와 라즈베리파이 블루투스 연결하여 통신할 수 있도록 함</li>
@@ -213,7 +214,9 @@ nav-menu: true
 						라즈베리파이를 유선랜과 연결하고 비디오 스트리밍 툴도 변경하여 속도를 개선.
 						firebase와 서버 컴퓨터의 파이썬 코드를 연결함.
 						mqtt를 통해 db에서 이미지를 다운로드 받고 한꺼번에 순서대로 학습, 분류, 카메라 동작 하도록 코드를 정리함</li>
-					<li><b>강예준, 이현정 :</b> apmod를 사용하여 기기 인식 기능 구현중. wifi가 잡히는 것을 확인했으나, 인터넷 연결은 되지 않아 다음주에 교수님께 여쭤볼 생각이다.이미지가 40장 업로드 되도록 수정하였고 기존에는 이미지가 업로드 될 때마다 다이어로그가 떴는데 마지막에 다 완료한 후에 한번만 뜨도록 수정했음.
+					<li><b>강예준, 이현정 :</b> apmod를 사용하여 기기 인식 기능 구현중. wifi가 잡히는 것을 확인했으나,
+						인터넷 연결은 되지 않아 다음주에 교수님께 여쭤볼 생각이다.이미지가 40장 업로드 되도록 수정하였고
+						기존에는 이미지가 업로드 될 때마다 다이어로그가 떴는데 마지막에 다 완료한 후에 한번만 뜨도록 수정했음.
 						서버 컴퓨터랑 통신하는 mqtt코드를 구현함</li>
 					<li><b>이현정 :</b> Github 홈페이지 관리</li>
 					<li><b>임세진 :</b> 주간 보고서 작성</li>
